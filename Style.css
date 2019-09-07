@@ -1,4 +1,17 @@
-body{
-    margin: 0%;
-    
+@import url('https://fonts.googleapis.com/css?family=Abel|Anton|Josefin+Sans:400,600|Lexend+Deca|Livvic:400,600&display=swap');
+
+
+:root{
+    /* theme colors */
+    --text-gray: #3F4954;
+    --bg-color: #0f0f0f;
+
+    /*  theme font-family */
+    --lexend: 'Lexend Deca', sans-serif;
+    --livvic: 'Livvic', sans-serif;
+
+    /* gradient colors */
+    --sky :  linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); /* 010 Winter Neva */
 }
+
+/* ------------------ navbar ----------------- */
